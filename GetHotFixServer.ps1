@@ -15,5 +15,5 @@ $selectedDownloadedKBs
 $selectedUpdateByMonth
 
 
-$selectedDownloadedKBs | Export-Csv -Path "C:\Users\cesar\Music\kbsBaixados.txt" -NoTypeInformation
-$selectedUpdateByMonth | Export-Csv -Path "C:\Users\cesar\Music\KBSinstalados.txt" -NoTypeInformation
+$selectedDownloadedKBs | Export-Csv -Path "C:\" -NoTypeInformation
+$selectedUpdateByMonth | Export-Csv -Path "C:\" -NoTypeInformation
