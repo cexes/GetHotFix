@@ -1,5 +1,5 @@
-$MonthNow = 8
-$YearNow = 2023
+$YearNow = (Get-Date).Year
+$MonthNow = (Get-Date).Month
 
 $AllUpdate = Get-HotFix
 
